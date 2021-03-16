@@ -1,0 +1,15 @@
+body {
+    background-color: #eee;
+}
+
+ul {
+    list-style: none;
+}
+
+.menu a {
+    text-decoration: none;
+}
+
+.menu a:visited {
+    color: initial;
+}
